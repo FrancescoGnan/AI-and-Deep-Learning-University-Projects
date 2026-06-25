@@ -10,7 +10,13 @@ There are 4 main sub-repositories regaring:
      - Assignment 3: Ant Colony System search
      - Assignment 4: The Orienteering Problem with Time Windows
 
-  3.  Machine Learning
+  2.  Machine Learning
+
+     - Assignment 1: Ridge Regression, Feature Engineering, Kernel functions, SVM
+     - Assignment 2: Neural Networks
+     - Assignment 3: Handwritten Digit Recognition
+     - Assignment 4: Probabilistic Modeling
+     - Assignment 5: Reinforcement Learning
 
   4.  Deep Learning
 
