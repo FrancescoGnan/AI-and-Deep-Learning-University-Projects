@@ -26,3 +26,5 @@ There are 4 main sub-repositories regaring:
      - Assignment 4: Conversational model with Transformers
 
   4.  Advanced Programming Techinques (CNN implemented with C++)
+
+     - Handwriting Recognition (MNIST) in C++
