@@ -1,0 +1,13 @@
+rel_path_train_images = mnist-datasets/train-images.idx3-ubyte // relative path to train image dataset
+rel_path_train_labels = mnist-datasets/train-labels.idx1-ubyte // relative path to train label dataset
+
+rel_path_test_images = mnist-datasets/t10k-images.idx3-ubyte // relative path to test image dataset
+rel_path_test_labels = mnist-datasets/t10k-labels.idx1-ubyte // relative path to test label dataset
+
+rel_path_log_file = log_predictions.txt // relative path to output log file (see below)
+
+// hyper−parameters
+num_epochs = 5 // number of epochs executed
+batch_size = 1 // size of a batch
+hidden_size = 500 // number of neurons after the first fully−connected layer (i.e. m)
+learning_rate = 1E-3 // learning rate used by optimizers (e.g. SGD)

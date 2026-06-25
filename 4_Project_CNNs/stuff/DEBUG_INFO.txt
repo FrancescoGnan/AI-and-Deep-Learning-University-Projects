@@ -1,0 +1,10 @@
+To debug the program:
+
+Step 1: Add -g flag in compiler/makefile
+Step 2: lldb {executable} - (i.e. lldb read_dataset_labels_exec)
+Step 3: r {parameteres} - (i.e. r r mnist-datasets/train-labels.idx1-ubyte IO_output/label_out.txt 0)
+Step 4: exit or q - exit/quit
+
+Extras: 
+    bt - backtrace
+    p {variable} - outputs the contents of the variable

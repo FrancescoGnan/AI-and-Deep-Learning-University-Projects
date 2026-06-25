@@ -1,0 +1,52 @@
+# Ignoring files and directories
+
+*.idea
+*.DS_Store
+*.vscode
+*.pycache
+*.git
+*.dSYM
+
+exes/*
+image_out.txt
+label_out.txt
+mnist-data
+log_test.txt
+sandbox/NN_tests/log_predictions.txt
+log_predictions.txt
+log_predictions-ci.txt
+
+DL_python_implementation/src_to_implement/Layers/__pycache__
+
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app

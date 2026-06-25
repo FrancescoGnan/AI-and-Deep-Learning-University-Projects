@@ -1,0 +1,9 @@
+## Questions for tutors:
+
+1. How do we include the eigen library such that the automatic tests pass?
+ -> Currently some of the scripts fail
+ A: He will check their includes on the server.
+    Use: https://eigen.tuxfamily.org/index.php?title=Tensor_support
+
+2. Output format of the labels.txt file. What are the "1" and the "10"?
+ A: Shapes of the tensor
