@@ -5,8 +5,13 @@ There are 4 main sub-repositories regaring:
 
   1.  Artificial Intelligence
 
-  2.  Machine Learning
+     - Assignment 1: Iterated Local Search for Travelling Salesman Problem
+     - Assignment 2: Genetics Algorithm (GA) for DeJong Function Optimization (FO)
+     - Assignment 3: Ant Colony System search
+     - Assignment 4: The Orienteering Problem with Time Windows
 
-  3.  Deep Learning
+  3.  Machine Learning
 
-  4.  Advanced Programming Techinques (CNN implemented with C++)
+  4.  Deep Learning
+
+  5.  Advanced Programming Techinques (CNN implemented with C++)
