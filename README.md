@@ -18,6 +18,11 @@ There are 4 main sub-repositories regaring:
      - Assignment 4: Probabilistic Modeling
      - Assignment 5: Reinforcement Learning
 
-  4.  Deep Learning
+  3.  Deep Learning Laboratory
 
-  5.  Advanced Programming Techinques (CNN implemented with C++)
+     - Assignment 1: Polynomial regression
+     - Assignment 2: Image classification using CNNs
+     - Assignment 3: Language models with LSTM: Generation of news titles
+     - Assignment 4: Conversational model with Transformers
+
+  4.  Advanced Programming Techinques (CNN implemented with C++)
