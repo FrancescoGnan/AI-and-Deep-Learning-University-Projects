@@ -1,7 +1,7 @@
 # AI & Deep Learning University Projects
-In this repo I collect the most relevant AI related projects I worked on during my Master's Degree in Computational Engineering
+In this repo I collect the most relevant AI related projects I worked on during my Master's Degree in Computational Engineering.
 
-There are 4 main sub-repositories regaring:
+There are 4 main sub-repositories regarding:
 
   1.  Artificial Intelligence
 
